@@ -1,7 +1,7 @@
 Hi 👋 I'm Pratik Basnet🦄
 ==============================
 
-### Skills
+### Skills & Tools
 
 
 <p align="left">

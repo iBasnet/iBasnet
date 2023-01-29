@@ -1,8 +1,6 @@
 Hi 👋 I'm Pratik Basnet🦄
 ==============================
 
-* Student. Coder. Programmer. Developer.
-
 ### Skills
 
 

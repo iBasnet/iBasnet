@@ -1,0 +1,143 @@
+{
+     "editor.fontFamily": "Consolas",
+     "editor.fontSize": 22,
+     "editor.formatOnType": true,
+     "editor.formatOnSave": true,
+     "editor.formatOnPaste": true,
+     "terminal.integrated.fontSize": 21,
+     "terminal.integrated.lineHeight": 2,
+     "terminal.integrated.sendKeybindingsToShell": true,
+     "workbench.colorCustomizations": {
+          //background
+          "editor.background": "#0F111A",
+          "sideBar.background": "#0b0d16",
+          "activityBar.background": "#0b0d16",
+          "statusBar.background": "#0b0d16",
+          "titleBar.activeBackground": "#090b10ea",
+          "menu.background": "#0F111A",
+          "tab.activeBackground": "#090b10ea",
+          "tab.activeBorder": "#00ffff",
+          "tab.inactiveBackground": "#0F111A",
+          "editorGroupHeader.tabsBackground": "#0F111A"
+     },
+     "editor.tokenColorCustomizations": {
+          "textMateRules": [
+               {
+                    "scope": "storage.type.function.python", //function
+                    "settings": {
+                         "foreground": "#9cfbfee8",
+                         "fontStyle": "italic"
+                    }
+               },
+               {
+                    "scope": "storage.type.class.python", //class
+                    "settings": {
+                         "foreground": "#56d2d6",
+                         "fontStyle": "italic"
+                    }
+               },
+               {
+                    "scope": "entity.name.namespace", //module
+                    "settings": {
+                         "foreground": "#ffe600",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "entity.name.type.class", //class name
+                    "settings": {
+                         "foreground": "#DCDCAA",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "comment.line.number-sign.python", //comment
+                    "settings": {
+                         "foreground": "#666666",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "variable",
+                    "settings": {
+                         "foreground": "#9cfbfee8",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "storage.type.string.python", //fstring
+                    "settings": {
+                         "foreground": "#ff00bf",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "constant.language.python", //boolean
+                    "settings": {
+                         "foreground": "#b15fff",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "keyword.control.flow.python", //return
+                    "settings": {
+                         "foreground": "#b15fff",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "support.variable.js", //console
+                    "settings": {
+                         "foreground": "#dfdfa0",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "comment", //comment
+                    "settings": {
+                         "foreground": "#666666",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "variable.other.constant.object.js", //variable name
+                    "settings": {
+                         "foreground": "#dfdfa0",
+                         "fontStyle": ""
+                    }
+               },
+               {
+                    "scope": "storage.type", //storage type
+                    "settings": {
+                         "foreground": "#9CDCFE",
+                         "fontStyle": "italic",
+                    }
+               },
+          ]
+     },
+     "terminal.integrated.rightClickBehavior": "default",
+     "liveServer.settings.donotShowInfoMsg": true,
+     "explorer.confirmDragAndDrop": false,
+     "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+     "terminal.integrated.profiles.windows": {
+          "PowerShell": {
+               "source": "PowerShell",
+               "icon": "terminal-powershell"
+          },
+          "Command Prompt": {
+               "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+               ],
+               "args": [],
+               "icon": "terminal-cmd"
+          },
+          "Git Bash": {
+               "source": "Git Bash"
+          },
+          "Windows PowerShell": {
+               "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+          }
+     },
+     // "workbench.colorTheme": "Monokai",
+}

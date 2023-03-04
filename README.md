@@ -14,5 +14,4 @@ Hi 👋 I'm Pratik Basnet🦄
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="36" height="36" alt="git" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" width="16" height="36" alt="MongoDB" /></a>
-<a href="https://linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" width="30" height="36" alt="Linux" /></a>
 </p>

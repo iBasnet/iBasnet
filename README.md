@@ -3,7 +3,7 @@ Hi 👋 I'm Pratik Basnet🦄
 
 ### Skills & Tools
 
-    <p>
+<p>
         <a href="https://photoshop.com" target="_blank"><img
                 src="https://camo.githubusercontent.com/684bf6326522f2795ec4d1c84c25c0915784a5326eab1e0db9ba90cf9032ef90/68747470733a2f2f692e696d6775722e636f6d2f556d4b374152462e706e67"
                 alt="Photoshop" width="36" height="36"></a>
@@ -40,4 +40,4 @@ Hi 👋 I'm Pratik Basnet🦄
         <a href="https://www.programiz.com/csharp-programming" target="_blank"><img
                 src="https://camo.githubusercontent.com/423bb5b811ef7f05d53ae5e50f3de82ca4847797c951673b207ae7d1baf8fc98/68747470733a2f2f692e696d6775722e636f6d2f6c65477279307a2e706e67"
                 alt="C#" width="36" height="36"></a>
-    </p>
+</p>

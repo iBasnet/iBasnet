@@ -38,6 +38,6 @@ Hi 👋 I'm Pratik Basnet🦄
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
                 width="32" height="36" alt="C++" /></a>
         <a href="https://www.programiz.com/csharp-programming" target="_blank" rel="noreferrer"><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
                 width="32" height="36" alt="C#" /></a>
     </p>

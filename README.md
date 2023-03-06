@@ -34,7 +34,4 @@ Hi 👋 I'm Pratik Basnet🦄
         <a href="https://linux.org" target="_blank" rel="noreferrer"><img
                 src="https://camo.githubusercontent.com/f29207f76b8fa8f81548b14c8cddbf5a4c1ce7da16bbaabc4b3c7123b7e4ef8c/68747470733a2f2f692e696d6775722e636f6d2f79794a4c6c666b2e706e67"
                 width="36" height="36" alt="Linux" /></a>
-        <a href="https://www.programiz.com/cpp-programming" target="_blank" rel="noreferrer"><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
-                width="32" height="36" alt="C++" /></a>
     </p>

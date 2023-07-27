@@ -1,4 +1,4 @@
-Hi 👋 I'm Pratik Basnet🦄
+Hi 👋 I'm Pratik Basnet 🗿
 ==============================
 
 ### Skills & Tools + Roadmap

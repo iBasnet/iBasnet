@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Basnet 🤠</h1>
-<h5 align="center">Full-Stack Developer from Nepal 🇳🇵</h5>
+<h5 align="center">Full-Stack Developer from Nepal🇳🇵</h5>
 <h3 align="center">My Languages & Tools 🛠️</h3><hr>
 <p align="center">
   <a href="https://skillicons.dev">

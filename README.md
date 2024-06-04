@@ -7,4 +7,4 @@
     <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,jquery,php,mysql,flask" /><br>
     <img src="https://skillicons.dev/icons?i=arch,vscode,cloudflare,git,github,netlify,webflow" />  
   </a></p><hr>
-<h4 align="center">Coders Unite. 🤝 Together We Rise. 🚀</h4>
+<h3 align="center">Coders Unite. 🤝 Together We Rise. 🚀</h3>

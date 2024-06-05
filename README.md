@@ -3,8 +3,7 @@
 <h3 align="center">My Languages & Tools 🛠️</h3><hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,c,py,html,css,js,ts" /> <br>
-    <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,jquery,php,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=arch,vscode,cloudflare,git,github,netlify,webflow" />  
+    <img src="https://skillicons.dev/icons?i=ps,c,py,html,css,js,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,php,mysql,flask,cloudflare" />  
   </a></p><hr>
 <h6 align="center">Coders Unite. 🤝 Together We Rise. 🚀</h6>

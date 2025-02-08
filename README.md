@@ -4,6 +4,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,c,py,html,css,js,tailwind" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,express,nextjs,typescript,git" />  
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,typescript,git" />  
   </a></p><hr>
 <h6 align="center">Coders Unite. 🤝 Together We Rise. 🚀</h6>
